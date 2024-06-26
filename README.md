@@ -1,7 +1,7 @@
 # Predictive-Analytics
 There are two experiential learning assignments in this repository
 
-Problem Statement:
+Problem Statement for the first experiential assignment:
 The following dataset credit.csv contains information about credit card debt for hundreds of customers. The response is balance (average credit card debt for each individual) and there are several quantitative predictors: age, cards (number of credit cards), education (years of education), income (in thousands of dollars), limit (credit limit), and rating (credit rating). You need carry out detailed Exploratory Data Analysis, create linear regression models based on the techniques you have learnt in the course and carry out detailed outlier and residual analysis. Also, comment on the bias variance trade off, that is, overfitting and under fitting aspect of the model created.
 https://drive.google.com/file/d/1Ga7Q25CTCR7EFYmdlR2JEr6m6ptcS_sk/view?usp=sharing
 Income - income in thousands of dollars
